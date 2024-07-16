@@ -49,11 +49,17 @@ body{
     align-items: center;
     flex-direction: column;
     text-align: center;
+    margin-bottom: 2%;
 }
 
 #welcome-image {
     width: 800px;
 }
+
+#welcome-text {
+    font-size: large;
+}
+
 
 .footer {
     display: flex;
