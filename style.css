@@ -156,3 +156,29 @@ body{
         width: 70%;
     }
   }
+
+  #info-block {
+    display: flex;
+    flex-direction: row;
+    width: 50%;
+    justify-content: space-evenly;
+  }
+
+  #address {
+    display: flex;
+    align-items: center;
+    justify-items: center;
+  }
+
+  #email {
+    display: flex;
+    align-items: center;
+    justify-items: center;
+  }
+
+  #email button{
+    font-size: x-large;
+    font-family: Poppins;
+    color: white;
+    background-color: #faaf90 ;
+  }
